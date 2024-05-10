@@ -24,7 +24,7 @@ Configuration
 Database Configuration: If you're using a database to store workout data, make sure to update the database connection details in the config.py file.
 Customization: You can customize the GUI elements, styling, and functionality according to your preferences by modifying the appropriate files in the project.
 Contributing
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request on GitHub.
+Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request on GitHub. This is a very rudimentary implimentation so feel free to add on to it however you feel fit. I am planning on adding a nutrition element in the future. 
 
 License
 This project is licensed under the MIT License.
@@ -35,4 +35,5 @@ Special thanks to the contributors and the open-source community for their valua
 Contact
 For any inquiries or feedback, feel free to contact the project maintainer:
 
-Your Name
+Jake Adams 
+www.linkedin.com/in/jake-adams-b1b948254
