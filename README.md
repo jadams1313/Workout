@@ -32,12 +32,8 @@ Note: You may need to adjust the dependencies based on your database choice.
 ## Contributing
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request on GitHub. I am currently working on the nurtition aspect of this and some more visuals. Feel free to contribute. 
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 - The application was developed using the Tkinter library in Python.
-- Special thanks to the contributors and the open-source community for their valuable contributions and support.
 
 ## Contact
 www.linkedin.com/in/jake-adams-b1b948254
